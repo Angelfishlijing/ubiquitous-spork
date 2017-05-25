@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PhotoSelectLibrary</string>
+    <string name="image_description">Image</string>
+
+
+    <string name="app_name_library">Library</string>
+    <string name="picture">Images</string>
+    <string name="all_image">All Images</string>
+    <string name="take_picture">Take Photo</string>
+    <string name="preview">Preview</string>
+    <string name="preview_num">Preview(%1$s)</string>
+    <string name="choose">Select</string>
+    <string name="done">Done</string>
+    <string name="use">OK</string>
+    <string name="num_postfix">%1$s</string>
+    <string name="done_num">Done(%1$s/%2$s)</string>
+    <string name="message_max_num">Up to %1$s photos can be selected</string>
+    <string name="save_ing">Saving picture…</string>
+
+
+    <string name="setting_text">设置</string>
+    <string name="cancel">"取消"</string>
+    <string name="missing_permission_text">当前应用缺少必要权限。\n请点击"设置"-"权限"-打开所需权限。\n
+</string>
+</resources>
